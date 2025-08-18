@@ -70,7 +70,7 @@ permalink: /resume/
 
   <header class="resume-header">
     <div>
-      <h1>Daryl Spink (RON1N01)</h1>
+      <h1>(RON1N01)</h1>
       <div class="meta">
         San Diego, CA · <a href="mailto:youremail@example.com">youremail@example.com</a> ·
         <a href="https://ron1n01.github.io">ron1n01.github.io</a> ·
