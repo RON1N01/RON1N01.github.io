@@ -1,7 +1,7 @@
 title: "RON1N01 — Cybersecurity Notes"
 description: "Cybersecurity Learner | Sharing Findings in Red, Blue & Cloud Security"
 url: "https://ron1n01.github.io"
-baseurl: "/site"
+baseurl: ""
 permalink: /:categories/:year/:month/:day/:title/
 
 remote_theme: riggraz/no-style-please
