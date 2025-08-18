@@ -1,10 +1,7 @@
-title: Daryl's Cybersecurity Notes
-description: fast, minimalist, content-first blog
-
-# IMPORTANT for project sites:
-url: "https://ron1n01.github.io"   # your user site root
-baseurl: "/site"                   # repo name, leading slash, NO trailing slash
-
+title: "RON1N01 — Cybersecurity Notes"
+description: "Cybersecurity Learner | Sharing Findings in Red, Blue & Cloud Security"
+url: "https://ron1n01.github.io"
+baseurl: "/site"
 permalink: /:categories/:year/:month/:day/:title/
 
 remote_theme: riggraz/no-style-please
@@ -12,3 +9,11 @@ plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
+
+theme_config:
+  appearance: auto
+  show_description: true
+  date_format: "%Y-%m-%d"
+
+  author:
+  name: "RON1N01"
