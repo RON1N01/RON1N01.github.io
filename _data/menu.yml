@@ -3,6 +3,8 @@ entries:
     url: /
   - title: About
     url: /about/
+  - title: Résumé
+    url: /resume/
   - title: Latest
     post_list:
       limit: 10
