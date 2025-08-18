@@ -3,7 +3,7 @@ description: "Cybersecurity Learner | Sharing Findings in Red, Blue & Cloud Secu
 
 # USER SITE SETTINGS
 url: "https://ron1n01.github.io"
-baseurl: ""   # <-- must be empty for user sites
+baseurl: ""   # must be empty for user sites
 
 permalink: /:categories/:year/:month/:day/:title/
 
@@ -19,4 +19,4 @@ theme_config:
   date_format: "%Y-%m-%d"
 
 author:
-  name: "RON1N01"
+  name: "Daryl Spink"
