@@ -1,7 +1,7 @@
 title: Daryl's Cybersecurity Notes
 description: fast, minimalist, content-first blog
-url: ""             # set if using a custom domain (e.g. https://example.com)
-baseurl: ""         # leave empty for username.github.io; set to /REPO if project site
+url: "https://RON1N01.github.io"             # set if using a custom domain (e.g. https://example.com)
+baseurl: "/site"         # leave empty for username.github.io; set to /REPO if project site
 permalink: /:categories/:year/:month/:day/:title/
 
 # Load the theme from GitHub
