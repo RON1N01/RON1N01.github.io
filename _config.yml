@@ -1,26 +1,14 @@
 title: Daryl's Cybersecurity Notes
 description: fast, minimalist, content-first blog
-url: "https://RON1N01.github.io"             # set if using a custom domain (e.g. https://example.com)
-baseurl: "/site"         # leave empty for username.github.io; set to /REPO if project site
+
+# IMPORTANT for project sites:
+url: "https://ron1n01.github.io"   # your user site root
+baseurl: "/site"                   # repo name, leading slash, NO trailing slash
+
 permalink: /:categories/:year/:month/:day/:title/
 
-# Load the theme from GitHub
 remote_theme: riggraz/no-style-please
-
-# Plugins (GitHub Pages supports these; include remote theme for local builds too)
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
-
-# Theme options
-theme_config:
-  appearance: auto
-  show_description: true
-  date_format: "%Y-%m-%d"
-
-author:
-  name: Daryl
-
-feed:
-  path: feed.xml
