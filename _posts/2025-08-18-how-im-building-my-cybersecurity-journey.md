@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How I’m Building My Cybersecurity Journey"
-date: 2025-08-18 21:00:00 -0700
+date: 2025-08-18 17:00:00 -0700
 categories: cybersecurity journey
 tags: [security-plus, ccna, bash, jekyll, github-pages]
 ---
