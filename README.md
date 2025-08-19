@@ -1,19 +1,42 @@
-# Jekyll Starter — no style, please!
 
-Preconfigured for the **riggraz/no-style-please** theme using `remote_theme` (works on GitHub Pages).
-Includes a GitHub Actions workflow for automatic deploys.
+# 🛰️ R0N1N01 | Cybersecurity Lab Notes
 
-[![Link Check](https://github.com/RON1N01/RON1N01.github.io/actions/workflows/links.yml/badge.svg)](https://github.com/RON1N01/RON1N01.github.io/actions/workflows/links.yml)
+Welcome to my Cybersecurity Lab Notes.  
+This repository powers my personal site:  
+🌐 **[ron1n01.github.io](https://ron1n01.github.io)**  
 
-## Deploy
-1. Create a public repo (can be `YOURUSERNAME.github.io` or any project name).
-2. Put these files in the repo root and commit to `main`.
-3. In **Settings → Pages**, set **Build and deployment** = **GitHub Actions**.
-4. Push; then watch the **Actions** tab. Visit the URL it prints when done.
+Here I share experiments, technical write-ups, and my journey from fundamentals to advanced topics in cybersecurity.  
+These aren’t casual blog posts — they’re structured **lab experiments**.  
 
-## Local preview (optional)
-```bash
-bundle install
-bundle exec jekyll serve
-# open http://127.0.0.1:4000
-```
+---
+
+## 🧭 About
+I’m documenting my path step by step:  
+- ✅ **Now:** Security+ studies & blue team basics  
+- 🔴 **Next:** Red team skills (offense, pentesting, exploit dev)  
+- 🟣 **Future:** Purple team concepts (bridging defense & offense)  
+
+---
+
+## 📂 Lab Sections
+- 🔵 **Blue Team Defense** — SIEM, detection, log analysis  
+- 🔴 **Red Team Fundamentals** — offensive techniques & labs  
+- 🟣 **Purple Team Concepts** — long-term research goals  
+- 🧪 **General Experiments** — scripts, configs, random tests  
+
+---
+
+## 🛠️ Tech & Tools
+![Made with Jekyll](https://img.shields.io/badge/Made%20with-Jekyll-blueviolet)  
+![GitHub Pages](https://img.shields.io/badge/Hosted%20on-GitHub%20Pages-black)  
+![Security+ Journey](https://img.shields.io/badge/Path-Security%2B%20Student-brightgreen)  
+
+---
+
+## 📡 Connect
+- 🌐 [ron1n01.github.io](https://ron1n01.github.io)  
+- 📧 contact@ron1n01.com  
+
+---
+
+> 🧨 *“These notes are my battlefield journal — documenting both victories and mistakes as I sharpen my craft.”*  
