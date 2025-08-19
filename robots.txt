@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ron1n01.com/sitemap.xml
