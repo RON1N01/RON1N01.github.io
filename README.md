@@ -1,6 +1,5 @@
 # Jekyll Starter — no style, please!
 
-
 Preconfigured for the **riggraz/no-style-please** theme using `remote_theme` (works on GitHub Pages).
 Includes a GitHub Actions workflow for automatic deploys.
 
