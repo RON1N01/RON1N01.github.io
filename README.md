@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/img/robot-avatar.png" alt="RX-07 The Wraith" width="250"/>
+  <img src="assets/img/robot-avatar.jpg" alt="RX-07 The Wraith" width="250"/>
 </p>
 
 
