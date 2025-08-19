@@ -13,10 +13,4 @@ jobs:
       - name: Run lychee link checker
         uses: lycheeverse/lychee-action@v1
         with:
-          args: --verbose --no-progress --exclude-mail --retry 2 --timeout 20 .
-
-exclude = [
-  "linkedin.com",
-  "twitter.com",
-  "x.com"
-]
+  args: --verbose --no-progress --exclude-mail --retry 2 --timeout 20 --exclude linkedin.com --exclude twitter.com --exclude x.com .
