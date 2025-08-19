@@ -1,9 +1,13 @@
+<p align="center">
+  <img src="assets/img/robot-avatar.png" alt="RX-07 The Wraith" width="250"/>
+</p>
+
 
 # 🛰️ R0N1N01 | Cybersecurity Lab Notes
 
 Welcome to my Cybersecurity Lab Notes.  
 This repository powers my personal site:  
-🌐 **[ron1n01.github.io](https://ron1n01.github.io)**  
+🌐 **[ron1n01.com](https://ron1n01.com)**  
 
 Here I share experiments, technical write-ups, and my journey from fundamentals to advanced topics in cybersecurity.  
 These aren’t casual blog posts — they’re structured **lab experiments**.  
@@ -34,7 +38,7 @@ I’m documenting my path step by step:
 ---
 
 ## 📡 Connect
-- 🌐 [ron1n01.github.io](https://ron1n01.github.io)  
+- 🌐 [ron1n01.com](https://ron1n01.com)  
 - 📧 contact@ron1n01.com  
 
 ---
