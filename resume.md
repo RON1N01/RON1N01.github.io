@@ -72,8 +72,8 @@ permalink: /resume/
     <div>
       <h1>(RON1N01)</h1>
       <div class="meta">
-        San Diego, CA · <a href="mailto:youremail@example.com">youremail@example.com</a> ·
-        <a href="https://ron1n01.github.io">ron1n01.github.io</a> ·
+        San Diego, CA · <a href="mailto:contact@ron1n01.com">contact@ron1n01.com</a> ·
+        <a href="https://ron1n01.com">ron1n01.com</a> ·
         <a href="https://github.com/RON1N01">github.com/RON1N01</a> ·
         <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">LinkedIn</a>
       </div>
