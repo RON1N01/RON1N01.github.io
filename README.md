@@ -3,6 +3,8 @@
 Preconfigured for the **riggraz/no-style-please** theme using `remote_theme` (works on GitHub Pages).
 Includes a GitHub Actions workflow for automatic deploys.
 
+[![Link Check](https://github.com/RON1N01/RON1N01.github.io/actions/workflows/links.yml/badge.svg)](https://github.com/RON1N01/RON1N01.github.io/actions/workflows/links.yml)
+
 ## Deploy
 1. Create a public repo (can be `YOURUSERNAME.github.io` or any project name).
 2. Put these files in the repo root and commit to `main`.
