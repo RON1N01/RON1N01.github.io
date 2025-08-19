@@ -2,7 +2,7 @@ title: "RON1N01 — Cybersecurity Notes"
 description: "Cybersecurity Learner | Sharing Findings in Red, Blue & Cloud Security"
 
 # USER SITE SETTINGS
-url: "https://ron1n01.github.io"
+url: "https://ron1n01.com"
 baseurl: ""   # must be empty for user sites
 
 permalink: /:categories/:year/:month/:day/:title/
