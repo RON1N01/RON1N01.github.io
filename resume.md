@@ -61,7 +61,6 @@ permalink: /resume/
   .resume-container { padding: 0; }
 }
 </style>
-
 <div class="resume-container">
   <div class="util">
     <span>Print or Save as PDF →</span>
@@ -75,7 +74,9 @@ permalink: /resume/
         San Diego, CA · <a href="mailto:contact@ron1n01.com">contact@ron1n01.com</a> ·
         <a href="https://ron1n01.com">ron1n01.com</a> ·
         <a href="https://github.com/RON1N01">github.com/RON1N01</a> ·
-        <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">LinkedIn</a>
+        <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">LinkedIn</a> ·
+        <a href="https://www.twitch.tv/ron1n0101">Twitch</a> ·
+        <a href="https://www.youtube.com/@RON1N01-01">YouTube</a>
       </div>
     </div>
     <div class="badges">
