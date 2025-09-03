@@ -1,0 +1,18 @@
+# [2025-09-02 :: Lab Note]
+
+---
+
+### Security+ Review
+- Worked through **20/90** practice questions.  
+- Focused on understanding concepts thoroughly instead of speed.  
+
+### Lab Work
+- Hydra brute force → cracked password **`xavier`**.  
+- Discovered and downloaded **`id_rsa`** private key.  
+- Decrypted passphrase using **John the Ripper**.  
+- Logged in via **SSH** successfully.  
+
+### Milestone
+- 🚩 First **full chain compromise** achieved (*Hydra → RSA → John → SSH*).  
+
+---
