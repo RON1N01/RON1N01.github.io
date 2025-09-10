@@ -1,4 +1,4 @@
-# [2025-09-10 :: Lab Notes]
+# [2025-09-09 :: Lab Notes]
 
 ## Title: Familiarity with Hashcat and Nmap
 
