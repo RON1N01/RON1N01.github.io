@@ -1,5 +1,3 @@
-# Audit → Risk Assessment → Risk Management Loop
-
 ## Cycle Overview
 This cycle represents how audits, risk assessments, and risk management feed into one another.  
 It is not a straight line but a continuous loop.
