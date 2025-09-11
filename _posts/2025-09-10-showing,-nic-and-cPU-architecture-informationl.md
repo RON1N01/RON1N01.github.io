@@ -1,6 +1,6 @@
 # Daily Lab Notes :: 2025-09-10
 
-Title: Showin NIC & CPU Architecture Information
+Title: Showing NIC & CPU Architecture Information
 
 ## Security+ Exam Simulation
 - Reviewed results from the **SY0-701 Exam Simulation** PDF.  
