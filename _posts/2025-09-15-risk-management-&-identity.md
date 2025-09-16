@@ -4,8 +4,6 @@ date: 2025-09-15
 categories: [Lab Notes, Security+]
 ---
 
-# Lab Notes – September 15, 2025
-
 ## Key Topics Studied
 
 - **Identity & Access Management**
