@@ -19,21 +19,21 @@ As part of my Security+ studies, I broke down four common firewall architectures
 
 ---
 
-## 3. Screened Subnet (DMZ)
-![Screened Subnet Firewall](/assets/img/firewalls/screened-subnet-firewall.png)  
-**Concept:** Adds a **DMZ segment** with two routers/firewalls.  
-- Public-facing servers live in DMZ.  
-- Even if compromised, attacker faces **second firewall** before LAN.  
-- More secure, more complex.  
-
----
-
-## 4. Dual-Homed Host Firewall
+## 3. Dual-Homed Host Firewall
 ![Dual-Homed Host Firewall](/assets/img/firewalls/dual-homed-host-firewall.png)  
 **Concept:** A single host with **two NICs** (one untrusted, one trusted).  
 - Host enforces firewall rules between interfaces.  
 - No direct packet forwarding between NICs.  
 - Rarely used standalone today, but key exam concept.  
+
+---
+
+## 4. Screened Subnet (DMZ)
+![Screened Subnet Firewall](/assets/img/firewalls/screened-subnet-firewall.png)  
+**Concept:** Adds a **DMZ segment** with two routers/firewalls.  
+- Public-facing servers live in DMZ.  
+- Even if compromised, attacker faces **second firewall** before LAN.  
+- More secure, more complex.  
 
 ---
 
