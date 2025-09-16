@@ -1,5 +1,5 @@
 ---
-title: "Lab Notes – September 15, 2025: Risk Management & Identity"
+title: "Risk Management & Identity"
 date: 2025-09-15
 categories: [Lab Notes, Security+]
 ---
