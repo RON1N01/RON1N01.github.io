@@ -3,8 +3,7 @@ As part of my Security+ studies, I broke down four common firewall architectures
 ---
 
 ## 1. Packet Filtering Router
-![Packet Filtering Router](<img width="1580" height="262" alt="packet-filtering-router" src="https://github.com/user-attachments/assets/6da7ca49-9900-4869-adbd-439776380a92" />
-)  
+![Packet Filtering Router](/assets/img/packet-filtering-router.png)  
 **Concept:** Filters traffic based on IP, protocol, and port. No deep inspection.  
 - Simple, low-cost.  
 - Weak against spoofing or advanced attacks.  
