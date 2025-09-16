@@ -1,10 +1,8 @@
 ---
-title: "Lab Notes – September 12, 2025"
+title: "Change Management & Data Types"
 date: 2025-09-12
 categories: [Lab Notes, Security+]
 ---
-
-# Lab Notes – September 12, 2025
 
 ## Key Topics Studied
 - **Change Management Concepts**
