@@ -18,7 +18,7 @@
   - **LLM** = core reasoning engine.  
   - **Agent** = orchestration + decision layer.  
   - **Tools/Environment** = APIs, shells, browsers, etc.
-![diagram](assets/img/llm/2025-09-17-llm-agent-tools-diagram.png)
+![diagram](/assets/img/llm/2025-09-17-llm-agent-tools-diagram.png)
 
 ---
 
