@@ -1,5 +1,4 @@
 # Lab Notes — September 20, 2025
-**Title Suggestion:** *Purpose, Process, and Practical Ops*
 
 ## Sysadmin Work
 - No major sysadmin tasks logged this day.
