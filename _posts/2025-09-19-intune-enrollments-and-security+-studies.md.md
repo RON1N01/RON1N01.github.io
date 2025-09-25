@@ -1,5 +1,4 @@
 # Lab Notes — September 19, 2025
-**Title Suggestion:** *Walking the Line: Risk, Research, and Future Projects*
 
 ## Sysadmin Work
 - Investigated Intune enrollments.
