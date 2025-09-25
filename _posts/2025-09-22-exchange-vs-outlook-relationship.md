@@ -1,5 +1,4 @@
 # Lab Notes — September 22, 2025
-**Title Suggestion:** *Contracts, Controls, and Cloud Foundations*
 
 ## Sysadmin Work
 - Investigated purchase flow for Microsoft licenses.    
