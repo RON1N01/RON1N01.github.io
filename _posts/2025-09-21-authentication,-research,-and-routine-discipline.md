@@ -1,5 +1,4 @@
 # Lab Notes — September 21, 2025
-**Title Suggestion:** *Authentication, Research, and Routine Discipline*
 
 ## Sysadmin Work
 - No major sysadmin updates logged this day.
