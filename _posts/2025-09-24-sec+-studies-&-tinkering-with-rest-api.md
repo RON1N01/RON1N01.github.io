@@ -1,29 +1,31 @@
 # Lab Notes – September 24, 2025  
 
-## Morning Rounds – Security+ Sparring  
-- Continued reviewing Security+ practice exam (84/90 questions reviewed).  
+## Security+ Certification Preparation  
+- Completed comprehensive review of Security+ practice examination (84/90 questions analyzed).  
 
-## Authorization Models – Untangling the Web  
-- Deep dive into **Mandatory Access Control (MAC)** vs **Attribute-Based Access Control (ABAC)**.  
-  - MAC: Labels, strict, system-enforced.  
-  - ABAC: Attributes (user, resource, environment), flexible, policy-driven.  
+## Access Control Architecture Analysis  
+- Conducted detailed comparative analysis of **Mandatory Access Control (MAC)** versus **Attribute-Based Access Control (ABAC)** methodologies.  
+  - MAC: Label-based enforcement with strict system-level controls.  
+  - ABAC: Policy-driven access decisions based on user attributes, resource properties, and environmental context.  
 
-## OSEE vs PCI DSS – Compliance Angle  
-- Explored **OSSTMM (Open Source Security Testing Methodology Manual)**. Clarified that “security” in its name doesn’t mean it’s the same as compliance frameworks.  
-- Compared **PCI DSS**: contractual compliance, not legislative — sneaky nuance.  
+## Security Framework and Compliance Standards  
+- Evaluated **OSSTMM (Open Source Security Testing Methodology Manual)** framework for security testing methodologies.  
+- Distinguished between security testing frameworks and compliance standards.  
+- Analyzed **PCI DSS** requirements: contractual compliance obligations versus legislative mandates.  
 
-## Local REST API in Obsidian – SSL Trust Issues  
-- Task: configure Obsidian’s **Local REST API** to be recognized as a trusted certificate authority in the browser (Mac M1 Pro).  
-- Walkthrough of cert installation steps → ensuring browser trust.  
-- Noted error: “Authorization required” → fixed by proper API key handling.  
+## Local REST API Configuration and Certificate Management  
+- Implemented Obsidian's **Local REST API** configuration with SSL certificate trust establishment on macOS (M1 Pro architecture).  
+- Executed certificate installation procedures to establish browser trust relationships.  
+- Resolved authentication error: "Authorization required" through proper API key configuration and handling.  
 
-## Afternoon Drift – Exploring Agent Mode  
-- Asked: *What is Agent Mode?*  
-- Clarified use of ChatGPT’s agent mode on iPhone — potential to act like a lightweight autonomous operator.  
-- Cyber context: Could be tied to checking **US-CERT bulletins** automatically → “Agent, check today’s bulletin.”  
+## Autonomous Security Operations Research  
+- Investigated **Agent Mode** capabilities in AI-assisted security operations.  
+- Evaluated ChatGPT's agent functionality for potential autonomous security monitoring applications.  
+- Explored integration possibilities with **US-CERT bulletin** monitoring for automated threat intelligence gathering.  
 
-## Evening Reflections – Crazy Edgework  
-- Wrestled with the idea of **understanding “crazy” perspectives** as a way to unlock creative edge in cybersecurity thinking.  
+## Security Research Methodology  
+- Examined alternative analytical perspectives for enhancing cybersecurity threat assessment capabilities.  
 
-## Key Wins Today  
-- Finished 90/90 Sec+ practice exam question results review
+## Daily Achievements  
+- Completed comprehensive Security+ practice examination review (90/90 questions analyzed)
+
