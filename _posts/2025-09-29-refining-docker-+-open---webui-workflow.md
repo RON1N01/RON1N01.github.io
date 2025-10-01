@@ -1,4 +1,5 @@
 # Lab Notes — September 29, 2025
+title: "Refining Docker + Open-WebUI Workflow"
 
 ## Topics Covered
 
