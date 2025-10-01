@@ -1,4 +1,3 @@
-# Conference Notes — Cybersecurity Summit San Diego  
 **Date:** September 30, 2025  
 
 ---
