@@ -1,5 +1,5 @@
 ---
-title: "Burnout, Balance, and the Discipline of the Sysadmin"
+title: "SysAdmin Work & Adversarial AI Setup"
 date: 2025-10-06
 tags: [sysadmin, security+, consistency]
 ---
