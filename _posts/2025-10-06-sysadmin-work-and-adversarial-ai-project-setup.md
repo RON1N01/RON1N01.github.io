@@ -1,0 +1,16 @@
+---
+title: "Burnout, Balance, and the Discipline of the Sysadmin"
+date: 2025-10-06
+tags: [sysadmin, security+, consistency]
+---
+
+### ⚙️ Technical Focus
+- Continued sysadmin workflow and troubleshooting:
+  - Disk management for NVMe via Windows Disk Management and Ubuntu installation (LVM setup, encryption options, etc.).
+  - Confirmed the *120 GB NVMe* suitability for adversarial AI project (DAAI).
+  - Completed a fresh Ubuntu install and validated desktop access for DAAI sandbox.
+  - Noted that “file /casper/vmlinuz not found” indicates a corrupted ISO or mis-flashed USB (use Rufus with DD mode if it repeats).
+
+- **Projects involved:**
+  - `DAAI` – Dedicated Adversarial AI environment setup.
+  - `securityresearch1` – baseline prep for USB driver analysis.
