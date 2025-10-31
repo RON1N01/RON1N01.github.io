@@ -1,7 +1,7 @@
 ---
-title: Windows Product-Key Recovery & Smart App Control  
+title: "Windows Product-Key Recovery & Smart App Control"  
 date: 2025-10-30
-tags: [windows, sysadmin
+tags: [windows, sysadmin]
 ---
 
 ## Objective
