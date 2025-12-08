@@ -15,7 +15,7 @@ plugins:
   - jekyll-sitemap
 
 theme_config:
-  appearance: auto
+  appearance: dark
   show_description: true
   date_format: "%Y-%m-%d"
 

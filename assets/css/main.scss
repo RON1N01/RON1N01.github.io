@@ -1,56 +1,41 @@
 ---
 ---
 
+
 @import "no-style-please";
 
 /* ================================
-   RON1N01 Final Brand Override
+   RON1N01 FINAL COLOR OVERRIDE
    Red Team with a Purple Tint
 ================================ */
 
-/* GLOBAL TEXT SELECTION */
-* {
-  caret-color: #7b2cff;
+/* Override theme CSS variables directly */
+:root {
+  --accent: #d40000 !important;     /* Primary RED */
+  --link: #d40000 !important;       /* Link RED */
+  --visited: #7b2cff !important;   /* Visited PURPLE */
+  --hover: #7b2cff !important;     /* Hover PURPLE */
 }
 
-/* PRIMARY LINK COLOR — RED */
+/* Hard override all anchor states */
 a,
 a:visited,
-.nav a,
-ul li a {
+a:active {
   color: #d40000 !important;
 }
 
-/* HOVER — PURPLE */
-a:hover,
-ul li a:hover {
+a:hover {
   color: #7b2cff !important;
 }
 
-/* HEADINGS — RED */
+/* Headings = RED */
 h1, h2, h3, h4, h5 {
   color: #d40000 !important;
 }
 
-/* CODE + TERMINAL ACCENTS — PURPLE */
+/* Code + terminal accents = PURPLE */
 code,
-pre,
-.highlight,
-.language-bash,
-.language-shell,
-.language-python {
+pre {
   color: #7b2cff !important;
 }
 
-/* BULLETS & LIST MARKERS */
-ul li::marker {
-  color: #d40000 !important;
-}
-
-/* REMOVE ANY AQUA / CYAN LEFTOVERS */
-span,
-strong,
-em {
-  color: inherit !important;
-}
- 
