@@ -1,20 +1,28 @@
----
----
-
 @import "no-style-please";
 
 /* ==========================================
-   RON1N01 Inverse Link Overrides for Dark Mode
+   RON1N01 Final Inverse Link Mapping
    Red Team with a Purple Tint
 ========================================== */
 
-/* Inverse of RED -> renders as RED after theme invert */
+/* Unclicked link -> renders RED */
 a:link {
   color: #2bffff !important;   /* Inverts to RED */
 }
 
-/* Inverse of PURPLE -> renders as PURPLE after theme invert */
+/* Visited link -> ALSO renders RED */
+a:visited {
+  color: #2bffff !important;   /* Inverts to RED */
+}
+
+/* Hover -> renders PURPLE */
 a:hover {
   color: #84d300 !important;   /* Inverts to PURPLE */
+}
+
+/* Active / focus safety */
+a:active,
+a:focus {
+  color: #84d300 !important;   /* PURPLE for interaction */
 }
 
