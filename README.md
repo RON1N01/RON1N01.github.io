@@ -22,7 +22,7 @@ I’m documenting my path step by step:
 
 ---
 
-##  Lab Sections
+## Lab Sections
 -  **Blue Team Defense** — SIEM, detection, log analysis  
 -  **Red Team Fundamentals** — offensive techniques & labs  
 -  **Purple Team Concepts** — long-term research goals  
@@ -30,14 +30,14 @@ I’m documenting my path step by step:
 
 ---
 
-##  Tech & Tools
+## Tech & Tools
 ![Made with Jekyll](https://img.shields.io/badge/Made%20with-Jekyll-blueviolet)  
 ![GitHub Pages](https://img.shields.io/badge/Hosted%20on-GitHub%20Pages-black)  
 ![Security+ Journey](https://img.shields.io/badge/Path-Security%2B%20Student-brightgreen)  
 
 ---
 
-##  Connect
+## Connect
 -  [ron1n01.com](https://ron1n01.com)  
 -  contact@ron1n01.com  
 

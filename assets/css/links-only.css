@@ -1,0 +1,9 @@
+/* Cancel dark-mode invert ONLY for links */
+a {
+  filter: invert(1) hue-rotate(180deg);
+  color: #d40000 !important;   /* TRUE RED */
+}
+
+a:hover {
+  color: #7b2cff !important;   /* TRUE PURPLE */
+}

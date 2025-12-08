@@ -24,4 +24,4 @@ author:
 
 include:
   - ".well-known"
-
+  - assets/css/links-only.css
