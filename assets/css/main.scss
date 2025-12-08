@@ -1,0 +1,30 @@
+---
+---
+
+
+@import "no-style-please";
+
+/* ================================
+   RON1N01 Brand Override
+   Red Team with a Purple Tint
+================================ */
+
+/* Replace default green with RED */
+a {
+  color: #d40000 !important;
+}
+
+/* Hover = PURPLE */
+a:hover {
+  color: #7b2cff !important;
+}
+
+/* Headings = RED */
+h1, h2, h3, h4 {
+  color: #d40000 !important;
+}
+
+/* Code + terminal accents = PURPLE */
+code, pre {
+  color: #7b2cff !important;
+}
