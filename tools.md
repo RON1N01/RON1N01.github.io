@@ -4,8 +4,6 @@ title: Tools
 permalink: /tools/
 ---
 
-# Tools
-
 This page documents security and automation tools I’ve built to support blue team, red team, and identity operations.
 
 All tools are developed for **defensive research, auditing, and investigation workflows** and are actively used in lab and operational environments.
