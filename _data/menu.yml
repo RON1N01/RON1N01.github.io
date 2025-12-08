@@ -5,6 +5,8 @@ entries:
     url: /about/
   - title: Resume
     url: /resume/
+  - title: Tools
+    url: /tools/
   - title: Latest
     post_list:
       limit: 10
