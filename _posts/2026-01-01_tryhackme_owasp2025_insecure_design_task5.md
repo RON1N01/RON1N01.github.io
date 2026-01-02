@@ -1,13 +1,7 @@
 ---
 title: "TryHackMe | OWASP Top 10 2025 – Insecure Design (Task 5)"
 date: 2026-01-01
-tags:
-  - tryhackme
-  - owasp-top-10
-  - insecure-design
-  - api-enumeration
-  - ffuf
-  - web-security
+tags: [tryhackme,owasp-top-10,insecure-design,api-enumeration,ffuf,web-security]
 ---
 
 ## Context
