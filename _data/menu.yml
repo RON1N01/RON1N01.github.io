@@ -6,7 +6,7 @@ entries:
   - title: Resume
     url: /resume/
   - title: Tools
-    url: /tools/
+    url: https://github.com/RON1N01?tab=repositories
   - title: Latest
     post_list:
       limit: 10
